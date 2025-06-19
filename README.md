@@ -2,7 +2,7 @@
 
 ## Live Site
 
-Check out the live version: [https://your-username.github.io/your-repo-name](https://beauyonradee.github.io/blog-preview/)  
+Check out the live version: [Live url](https://beauyonradee.github.io/blog-preview/)  
 
 ---
 
