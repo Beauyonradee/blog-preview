@@ -1,18 +1,18 @@
-# Frontend Mentor - Recipe Page Solution
+# Frontend Mentor - Blog Preview Card Solution
 
 ## Live Site
 
-Check out the live version: [Live url](https://beauyonradee.github.io/recipe-page/)  
+Check out the live version: [Live url](https://beauyonradee.github.io/blog-preview/)  
 
 ---
 
 ## What I Learned
 
-- Semantic HTML structure for clear content hierarchy
-- Styling tables for nutritional information
-- Using custom colors and fonts to match a design
-- Managing spacing and responsive typography
-- Better control over layout with Flexbox and rem/em units
+- How to use HTML for content structuring
+- Styling with CSS Flexbox for alignment and layout
+- Applying custom fonts using Google Fonts
+- Using `box-shadow`, `border-radius`, and responsive units
+- How to center elements with Flexbox and `height: 100vh`
 
 ---
 
@@ -21,7 +21,7 @@ Check out the live version: [Live url](https://beauyonradee.github.io/recipe-pag
 - HTML5
 - CSS3 (Vanilla CSS)
 - Flexbox
-- Google Fonts (Young Serif, Outfit)
+- Google Fonts (Figtree)
 - Mobile-first workflow
 - Git & GitHub for version control
 
